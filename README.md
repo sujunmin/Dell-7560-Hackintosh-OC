@@ -1,4 +1,4 @@
-# Dell-7460-Hackintosh-OC
+# Dell-7560-Hackintosh-OC
 
 EFI使用有问题？请参考这篇文档[黑苹果安装指北手册](https://howiehye.top/post/9ff9620/)
 
@@ -45,21 +45,20 @@ rm -rf '/Library/Application Support/Clover/CloverWrapper.sh'
 
 | 规格     | 型号                                        |
 | -------- | ------------------------------------------- |
-| 电脑型号 | `Dell Inspiron 7460`                        |
-| 操作系统 | `macOS Big Sur 11.2.2(20D80)` && `Windows 10` |
-| 处理器   | `Intel Core i7-7500U @ 2.70GHz` 双核        |
+| 电脑型号 | `Dell Inspiron 7560`                        |
+| 操作系统 | `macOS Big Sur 11.2.3` && `Windows 10` |
+| 处理器   | `Intel Core i5-7200U @ 2.70GHz` 双核        |
 | 声卡     | `ALC256`                                    |
-| 网卡     | 已更换为 `DW1560`                           |
+| 网卡     | `有线` && `Wireless 3165`                           |
 
 ## OC
 
-- OC版本：0.6.7
+- OC版本：0.6.8
 - 支持安装、升级和日常使用（不能保证都可以顺利安装，安装或升级时请自行在`boot-args`里添加`-v`）
-- 支持`macOS Catalina、macOS Big Sur Beta`,理论上支持`macOS High Sierra/macOS Mojave`
+- 支持`macOS Catalina、macOS Big Sur Beta`
 - CPU 原生支持，变频正常
 - 显卡原生支持，`Lilu+WEG`
 - 声卡正常
-- 无线网卡更换为`DW1560`
 - 显示器亮度调节正常
 
 ## CFG

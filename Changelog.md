@@ -5,7 +5,7 @@
 
 ## 2021-04-19
 
-- 更新`OC`至`0.6.7`
+- 更新`OC`至`0.6.8`
 - 更新主题为[OcBinaryData](https://github.com/acidanthera/OcBinaryData)
 - 删除了博通网卡驱动
 
