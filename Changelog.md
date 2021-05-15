@@ -1,12 +1,23 @@
 # Change log
 
-> 目前 OC 版本: `0.6.8`
-> 系统版本: `macOS Big Sur 11.2.3`
+> 目前 OC 版本: `0.6.9`
+> 系统版本: `macOS Big Sur 11.4Beta(20F5065a)`
+
+## 2021-05-15
+
+- 更新`OC`至`0.6.9`
+- 更新`AppleALC`至`1.6.0`
+- 更新`Lilu`至`1.5.3`
+- 更新`RealtekRTL8111`至`2.4.2`
+- 更新`VoodooPS2Controller`至`2.2.3`
+- 更新`WhateverGreen`至`1.4.9`
+- 更新`VoodooSMC`至`1.2.4`
+- 更新`VoodooInput`至`1.1.2`
 
 ## 2021-04-19
 
 - 更新`OC`至`0.6.8`
-- 更新主题为[OcBinaryData](https://github.com/acidanthera/OcBinaryData)
+- 更换主题为[OcBinaryData](https://github.com/acidanthera/OcBinaryData)
 - 删除了博通网卡驱动
 
 ## 2021-04-10
