@@ -1,7 +1,19 @@
 # Change log
 
-> 目前 OC 版本: `0.6.9`
-> 系统版本: `macOS Big Sur 11.4Beta(20F5065a)`
+> 目前 OC 版本: `0.7.0`
+> 系统版本: `macOS Big Sur 11.5`
+
+## 2021-07-17
+
+- 更新`OC`至`0.7.0`
+- 更新`AppleALC`至`1.6.2`
+- 更新`HibernationFixup`至`1.4.1`
+- 更新`IntelBluetoothFirmware`至`2.0.0`
+- 更新`Lilu`至`1.5.4`
+- 更新`VirtualSMC`至`1.2.5`
+- 更新`VoodooPS2Controller`至`2.2.4`
+- 更新`WhateverGreen`至`1.5.1`
+- 更换主题为[chris1111/My-Simple-OC-Themes](https://github.com/chris1111/My-Simple-OC-Themes)中的Natural
 
 ## 2021-05-15
 
